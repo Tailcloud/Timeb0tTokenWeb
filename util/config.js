@@ -9,8 +9,8 @@ config.collection = {
 };
 config.creds= {
   redirectUrl: 'https://web4token.azurewebsites.net/token',
-  clientID: '1c333c58-91d0-4efc-b6b1-4a87595399e3',
-  clientSecret: '/6qR1VMNlvdfZtsyyrAci74v5K+aKC9WaR98Gmi5gI8=',
+  clientID: 'ade6f96f-968f-4c4a-8897-75b93e62f59a',
+  clientSecret: '7fNQMNAjvO3B7lQl90TZiuxH5gKoAANDAxxFGWcIVv8=',
   identityMetadata: 'https://login.microsoftonline.com/ba3f5887-37f9-46a8-8273-dd0d2cb7789f/v2.0/.well-known/openid-configuration',
   allowHttpForRedirectUrl: true, // For development only
   responseType: 'code',
